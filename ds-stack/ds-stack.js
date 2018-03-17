@@ -1,9 +1,10 @@
 var Stack = function() {
-    this._storage =
+    this._storage = []
     this.add = function(){
-      // write me
+     return this._storage[value]
     };
     this.remove = function() {
-      // write me
+      return this._storage[undefined]
     };
-  };
+  }; 
+  //Attempted
